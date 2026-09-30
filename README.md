@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hi, Welcome to my GitHub!</h1>
+<h1 data-importer="text" align="left">Hi, i'm Alan!</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">Languages & Technologies</p>
+<h4 data-importer="text" align="left">Languages & Technologies</h4>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p data-importer="text" align="left">Cloud & Infrastructure</p>
+<h4 data-importer="text" align="left">Cloud & Infrastructure</h4>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p data-importer="text" align="left">Development Tools</p>
+<h4 data-importer="text" align="left">Development Tools</h4>
 
 ###
 
@@ -77,14 +77,12 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/alanchristophergonzagamiranda">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/alanchristophergonzagamiranda" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
-  <a href="alanchristophermiranda2005@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="alanchristophermiranda2005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  
 </div>
 
 ###
