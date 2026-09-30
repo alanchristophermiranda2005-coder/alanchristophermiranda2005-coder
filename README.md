@@ -75,14 +75,20 @@
 <h2 data-importer="text" align="left">Social Media</h2>
 
 ###
+<h2 data-importer="text" align="left">Social Media</h2>
+
+###
 
 <div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/alanchristophergonzagamiranda" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
+  <a href="www.linkedin.com/in/alanchristophergonzagamiranda">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="alanchristophermiranda2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  
+  <a href="mailto:alanchristophermiranda2005@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
+
 </div>
 
 ###
